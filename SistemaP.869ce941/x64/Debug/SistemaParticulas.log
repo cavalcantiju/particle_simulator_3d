@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\User\OneDrive\Documentos\Ciencia-da-Computacao\CompGrafica\SistemaParticulas\main.c(77,8): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\User\OneDrive\Documentos\Ciencia-da-Computacao\CompGrafica\SistemaParticulas\main.c(77,13): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\User\OneDrive\Documentos\Ciencia-da-Computacao\CompGrafica\SistemaParticulas\main.c(77,18): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\User\OneDrive\Documentos\Ciencia-da-Computacao\CompGrafica\SistemaParticulas\main.c(811,21): warning C4113: 'void (__cdecl *)()' difere em listas de parâmetro de 'void (__cdecl *)(void)'
+C:\Users\User\OneDrive\Documentos\Ciencia-da-Computacao\CompGrafica\SistemaParticulas\main.c(815,18): warning C4113: 'void (__cdecl *)()' difere em listas de parâmetro de 'void (__cdecl *)(void)'
+  SistemaParticulas.vcxproj -> C:\Users\User\OneDrive\Documentos\Ciencia-da-Computacao\CompGrafica\SistemaParticulas\x64\Debug\SistemaParticulas.exe
